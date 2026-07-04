@@ -112,7 +112,7 @@ If you found this project helpful, consider giving it a ⭐ on GitHub!
 
 ### 👨‍💻 Author
 
-**Akash Kumar**
+**Akash S**
 
 - GitHub: https://github.com/your-username
 - LinkedIn: https://www.linkedin.com/in/your-linkedin-profile
